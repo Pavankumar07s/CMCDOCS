@@ -1,0 +1,24 @@
+1.Priority Discussion
+i>Two problem statements were discussed.
+ii>The team agreed to work on finding optimized approaches for both.
+
+2. Current Project Discussion
+i>Reviewed the progress of the current project.
+ii>Decided on a plan for merging with real road data to improve accuracy.
+
+3. Data Storage Decision
+i>It was agreed to avoid using AWS S3 buckets for storing photos and videos.
+ii>Since this is government data, it must be stored locally on government servers for compliance and security.
+
+4. User Hierarchy Idea
+i>Discussed the hierarchy of views/roles in the system:
+---------------
+|Committees   |
+|    ^        |
+|    |        |
+|Commissioners|
+|    ^        |
+|    |        |
+|Contractors  |
+---------------
+Need to design access levels accordingly.

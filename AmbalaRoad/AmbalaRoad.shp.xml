@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20250806</CreaDate><CreaTime>15470800</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Data Management Tools.tbx\DeleteField" Date="20250806" Time="154708">DeleteField AmbalaRoad OBJECTID_1;OBJECTID;Direction;Sector_num;Road_1;Road_2;Road_3;Road_4;Street_cod;Road_5;UID;Width_new;Layer;Change_Wid;Shape_STLe;Shape_ST_1</Process></lineage></DataProperties></Esri></metadata>
