@@ -217,9 +217,21 @@ Project Manager:
 Email: manager@ambala.gov.in
 Password: manager123
 
+Engineer:
+Email: engineer@ambala.gov.in
+Password: engineer123
+
+Inspector:
+Email: inspector@ambala.gov.in
+Password: inspector123
+
 Contractor:
 Email: contractor@ambala.gov.in
 Password: contractor123
+
+Councilor:
+Email: councilor@ambala.gov.in
+Password: councilor123
 ```
 
 ---
